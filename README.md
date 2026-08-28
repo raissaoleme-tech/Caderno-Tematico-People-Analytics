@@ -14,7 +14,7 @@ O Caderno Temático foi desenvolvido com o apoio do Gemini Notebook para organiz
 
 A transformação digital vem ampliando o uso de dados nas organizações e também na área de Recursos Humanos. Nesse cenário, conceitos como People Analytics, Data-Driven RH e indicadores de pessoas ganham importância para apoiar decisões mais estruturadas e baseadas em evidências.
 
-A escolha do tema surgiu devido minha atuação no setor de Recursos Humanos há quatro anos e tenho do interesse em compreender como os dados podem ser utilizados nos processos, especialmente em atividades relacionadas a **Recrutamento e Seleção, indicadores, admissão e tomada de decisão**. 
+A escolha do tema surgiu a partir da minha atuação no setor de Recursos Humanos e do interesse em compreender como os dados podem ser utilizados nos processos, especialmente em atividades relacionadas a Recrutamento e Seleção, indicadores, admissão e tomada de decisão.
 
 Para desenvolver este estudo, foi utilizado o **Gemini Notebook** como ferramenta de aprendizagem ativa. Foram selecionadas cinco fontes abertas, posteriormente analisadas por meio de perguntas e prompts progressivos.
 
@@ -316,7 +316,7 @@ Os prompts abaixo foram desenvolvidos para futuras sessões de estudo e revisão
 
 > Faça um quiz sobre People Analytics, indicadores de RH e tomada de decisão baseada em dados. Apresente uma questão por vez, aguarde minha resposta e depois avalie minha resposta explicando o raciocínio correto com base nas fontes disponíveis.
 
-**Objetivo:** utilizar o NotebookLM como ferramenta de revisão ativa.
+**Objetivo:** utilizar o Gemini Notebook como ferramenta de revisão ativa.
 
 
 # 8. Principais Aprendizados
@@ -354,12 +354,12 @@ A pesquisa demonstrou que indicadores e informações estruturadas podem apoiar 
 
 Mais do que reunir informações, o projeto buscou desenvolver uma postura crítica diante das respostas produzidas pela Inteligência Artificial. A comparação das fontes e a identificação de informações que dependem de estudos originais demonstraram a importância da **curadoria, validação e interpretação das evidências**.
 
-Dessa forma, o Gemini LM foi utilizado não apenas como ferramenta de consulta, mas como um recurso para **organização do conhecimento, formulação de perguntas, revisão e aprendizagem ativa**.
+Dessa forma, o Gemini Notebook foi utilizado não apenas como ferramenta de consulta, mas como um recurso para **organização do conhecimento, formulação de perguntas, revisão e aprendizagem ativa**.
 
 
 ## Ferramentas utilizadas
 
-* **NotebookLM** — pesquisa, organização das fontes e aprendizagem ativa;
+* **Gemini Notebook** — pesquisa, organização das fontes e aprendizagem ativa;
 * **GitHub** — documentação e publicação do projeto;
 * **Inteligência Artificial** — apoio à elaboração, comparação e análise crítica dos conteúdos.
 
